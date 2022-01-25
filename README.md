@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi 👋 I am Bhavadeep
+### This is  Bhavadeep
 
 - 🔭 I’m currently working on windows
 - 🌱 I’m currently learning java scipt
