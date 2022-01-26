@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning java scipt
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with react
-- 💬 Ask me about HTML & CSS related stuff.
+- 💬 Ask me about : I'm happy to help with anything I know ✌️
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhavadeep-reddy-314411221/) 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
    
   ⚙️ <b>Languages and Tools:</b>
   <br>
