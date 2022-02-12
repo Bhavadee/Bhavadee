@@ -24,7 +24,7 @@
 <b>###  Profile overview: 👁️👁️</b>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Bogeshwararo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=bhavadee&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <br>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavadee&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
