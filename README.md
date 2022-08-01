@@ -24,6 +24,9 @@
 <b>###  Profile overview: 👁️👁️</b>
 <br>
 <br>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=bhavadee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=bhavadee&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <br>
 <br>
