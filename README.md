@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with react
 - 💬 Ask me about : I'm happy to help with anything I know ✌️
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhavadeep-reddy-314411221/) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhavadeep-reddy-314411221/)
+📫 wanna see personal websit: [portifolio](https://bhavadee.github.io/portifolo/)
 - 😄 Pronouns: He/Him
    
   ⚙️ <b>Languages and Tools:</b>
