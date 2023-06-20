@@ -3,9 +3,9 @@
 ### This is  Bhavadeep
 
 - 🔭 I’m currently working on windows
-- 🌱 I’m currently learning java scipt
-- 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with react
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on new mern projects
+- 🤔 I’m looking for help with cloud computing
 - 💬 Ask me about : I'm happy to help with anything I know ✌️
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhavadeep-reddy-314411221/)
 - 📫 wanna see personal websit: [portifolio](https://bhavadee.github.io/portifolo/)
